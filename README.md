@@ -1,4 +1,4 @@
-Decompiled and reconstructed source code for Blueprinter, becuase Modding should not be gatekept
+Standalone fork from https://github.com/Dev1-bit/Blueprinter-NO, meant to be more drop-in and more documented.
 
 ---
 
